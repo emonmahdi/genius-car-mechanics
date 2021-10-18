@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "CHECK COOLANT LEVELS",
+      "price": "120",
+      "description": "It’s also important to check your antifreeze levels in your radiator in winter months to keep your radiator or engine components from freezing. A 50/50 mix of antifreeze to water is generally recommended, but check your owner’s manual or with a professional to be certain.",
+      "img": "https://i.ibb.co/QX8Pjrz/checking-coolant-levels.jpg"
+    },
+    {
+      "id": 2,
+      "name": "CHANGE TIRES",
+      "price": "70",
+      "description": "Depending on where you live and the winter driving conditions you might encounter, you might want to switch your tires in cold, snowy months to a winter/snow tire. When the temperature hovers at or below freezing consistently",
+      "img": "https://i.ibb.co/x6hZ2Qn/change-tires.jpg"
+    },
+    {
+      "id": 3,
+      "name": "BATTERY PERFORMANCE CHECK",
+      "price": "60",
+      "description": "Your car battery is one of the most important components for your vehicle to run. A car battery supplies large amounts of electrical current for the starter, engine and other electronic accessories in the vehicle.",
+      "img": "https://i.ibb.co/KW927N4/battery-check.jpg"
+    },
+    {
+      "id": 4,
+      "name": "REPLACE WINDSHIELD WIPERS",
+      "price": "40",
+      "description": "Windshield wipers need to be replaced about once every year, or whenever the effectiveness is compromised. In winter months, it could also be a good idea to install winter wiper blades for optimum performance.",
+      "img": "https://i.ibb.co/bLnTCN0/REPLACE-WINDSHIELD-WIPERS.jpg"
+    },
+    {
+      "id": 5,
+      "name": "SEASONAL CHECK-UPS",
+      "price": "86",
+      "description": "The needs of your vehicle can vary by season and driving conditions. Following are a few suggestions to add to the notes section of your vehicle maintenance checklist",
+      "img": "https://i.ibb.co/tmz14DY/SEASONAL-CHECK-UPS.jpg"
+    },
+    {
+      "id": 6,
+      "name": "SERPENTINE BELT",
+      "price": "57",
+      "description": "Although may seem like a simple piece of rubber, your vehicle’s serpentine belt is essential to keeping your car running by powering peripheral devices such as your alternator, power steering pump, and air conditioner compressor.",
+      "img": "https://i.ibb.co/Lp1Yht3/SERPENTINE-BELT.jpg"
+    },
+    {
+      "id": 7,
+      "name": "SPARK PLUGS",
+      "price": "60",
+      "description": "The spark plugs in your engine ignite the gas and air mixture that ultimately powers your vehicle . If your spark plugs aren’t functioning properly, your engine will lose power and won’t run at optimal capacity. ",
+      "img": "https://i.ibb.co/6sqcQNJ/SPARK-PLUGS.jpg"
+    }
+  ]

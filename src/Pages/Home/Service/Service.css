@@ -1,0 +1,8 @@
+.service-item{
+    background-color: lightblue; 
+    margin-bottom: 20px; 
+}
+.service-item img{
+    height: 270px;
+    width: 100%;
+} 
